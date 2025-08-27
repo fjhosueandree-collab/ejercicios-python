@@ -1,0 +1,15 @@
+# Caso Práctico 1: Sistema de Información Personal
+
+nombre = "Jhosue Andree Flores Mamani"
+edad = 17
+ocupacion = "Estudiante"
+ciudad = "Puno"
+
+print("=" * 50)
+print("INFORMACIÓN PERSONAL")
+print("=" * 50)
+print(f"Nombre: {nombre}")
+print(f"Edad: {edad} años")
+print(f"Ocupación: {ocupacion}")
+print(f"Ciudad: {ciudad}")
+print("=" * 50)

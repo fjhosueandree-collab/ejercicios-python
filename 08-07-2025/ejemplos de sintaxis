@@ -1,0 +1,4 @@
+print("Hola", "Python", "3.11", sep="-")
+print("Mensaje sin salto", end="")
+print("Continuación")
+print("A", "B", "C", sep="'''", end="!!!\n")

@@ -1,0 +1,1 @@
+print("Hola, mundo", "42", "3.14159", "True")

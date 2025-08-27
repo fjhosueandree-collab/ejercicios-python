@@ -1,0 +1,6 @@
+productos = ["Pan", "Leche", "Huevos", "Queso", "Cereal "]
+...
+... print("Lista de productos: ")
+...
+... for producto in productos:
+...     print("-", producto)
