@@ -1,0 +1,9 @@
+print(4*3)
+print("PUNO"*4)
+print(2*"PERU")
+x="*"
+print(x*4)
+y="A"
+print(y*5)
+z="Lenguaje"
+print(z*3)

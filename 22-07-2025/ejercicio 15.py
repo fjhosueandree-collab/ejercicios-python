@@ -1,0 +1,8 @@
+x = 28
+if x < 0:
+  print(f'{x} es menor que 0')
+else:
+ if x > 0:
+  print(f'{x} es mayor que 0')
+ else:
+   print('x es 0')
