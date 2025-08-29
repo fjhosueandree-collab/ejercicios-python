@@ -1,0 +1,8 @@
+x = range(10)
+print(x)
+range(0, 10)
+print(list(x))
+range(7)
+range(0, 7)
+print(list(range(7)))
+range(0, 10)
